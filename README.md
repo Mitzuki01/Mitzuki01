@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu faço estagio em Tecnologia
-- 🌱 Estudo Analise e Desenvolvimento de Sistemas
+- 🌱 Estudo Desenvolvimento de Sistemas
 - 📫 Contate-me no E-mail: gg.4004116@gmail.com
 
 
