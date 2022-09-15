@@ -1,7 +1,7 @@
 ### Olá!!😁✌
 
 
-- 🔭 Eu faço estagio em Tecnologia
+- 🔭 Faço estagio de TI
 - 🌱 Estudo Desenvolvimento de Sistemas
 - 📫 Contate-me no E-mail: gg.4004116@gmail.com
 
