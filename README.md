@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Mitzuki01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello+World!;My+name+is;Gabriel+Maciel+Severio!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello+World!;My+name+is:;Gabriel+Maciel+Severio!" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">Sou um desenvolvedor Full Stack Junior</h3>
