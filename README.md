@@ -10,7 +10,7 @@
 ### 👨‍💻 Sobre mim
 - 🔭 Atualmente trabalho como: **Estagiário de TI**
 - 🌱 Atualmente estudando: **Técnico em Desenvolvimento de Sistemas**
-- 📫 Contato: **gg.4004116@gmail.com**
+- 📫 Contato: **corp.gabrielseverio@gmail.com**
 - 😄 Pronomes: **Ele/Dele**
 
 ---
