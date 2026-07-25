@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalho como: **Estagiário de TI**
+- 🔭 Atualmente trabalho como: **Analista de gente e gestão**
 - 🌱 Atualmente estudando: **Técnico em Desenvolvimento de Sistemas**
 - 📫 Contato: **corp.gabrielseverio@gmail.com**
 - 😄 Pronomes: **Ele/Dele**
